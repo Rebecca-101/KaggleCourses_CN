@@ -1,8 +1,8 @@
-# Hello Seabon
+# Hello Seaborn
 
 ## 欢迎来到数据可视化：从非编码到编码
 
-在这个动手型微课程里，你会学到通过[seaborn](https://seaborn.pydata.org/index.html)（一个强悍但简单使用的数据可视化工具）如何将你的数据可视化达到下一个水准。使用seaborn，你也会学到怎么用python（一个流行的编程语言）写代码，也就是说
+在这个动手型微课程里，你会学到通过[seaborn](https://seaborn.pydata.org/index.html)（一个强悍但简单使用的图形可视化库）如何将你的数据可视化达到下一个水准。使用seaborn，你也会学到怎么用python（一种非常受欢迎的编程语言）写代码，也就是说
 
 - 微型课程针对那些没有编程经验的人，而且
 
